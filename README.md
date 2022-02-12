@@ -32,7 +32,6 @@
             </tr>
         </tbody>
     </table>
-
     <h2>V2</h2>
     <table>
         <thead>
